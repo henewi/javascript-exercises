@@ -11,3 +11,4 @@ module.exports = {
   ftoc,
   ctof
 };
+console.log("test")
